@@ -12,8 +12,8 @@
 - 另外需要提醒一下，这个数据集里面的特征数组已经归一化了。
 ### 2. save_all_mnist_to_csv.py
 - 提取mnist.pkl.gz中的数据，得到一个完整数据的.csv文件，其中数据的大小为（70000, 785），共70000个数据，其中标签在第一列。
-### 3. 
-- 自己动手搭建ANN识别mnist手写数字（正确率91.4%）
+### 3. ANN_StochasticGradientDescent.ipynb
+- 自己动手搭建ANN识别mnist手写数字（正确率92.11%）
 ### 4. 
 - 使用TensorFlow搭建ANN识别mnist手写数字（正确率98.3%）
 ### 5. 
