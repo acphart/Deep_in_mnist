@@ -17,4 +17,4 @@
 ### 4. ANN_by_TensorFlow_with_one_hidden_layer.ipynb
 - 使用TensorFlow搭建ANN（一层隐藏层）识别mnist手写数字（正确率97.49%）
 ### 5. 
-- 使用TensorFlow搭建CNN识别mnist手写数字（正确率99.3%）-（参考LeNet-5，论文地址：http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf）-
+- 使用TensorFlow搭建CNN识别mnist手写数字（正确率99.3%）-（参考LeNet-5，论文地址：http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf）
