@@ -14,7 +14,7 @@
 - 提取mnist.pkl.gz中的数据，得到一个完整数据的.csv文件，其中数据的大小为（70000, 785），共70000个数据，其中标签在第一列。
 ### 3. ANN_StochasticGradientDescent.ipynb
 - 自己动手搭建ANN识别mnist手写数字（正确率92.11%）
-### 4. 
-- 使用TensorFlow搭建ANN识别mnist手写数字（正确率98.3%）
+### 4. ANN_by_TensorFlow_with_one_hidden_layer.ipynb
+- 使用TensorFlow搭建ANN（一层隐藏层）识别mnist手写数字（正确率97.49%）
 ### 5. 
 - 使用TensorFlow搭建CNN识别mnist手写数字（正确率99.3%）-（参考LeNet-5，论文地址：http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf）-
