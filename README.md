@@ -1,5 +1,5 @@
 # Deep_in_mnist
-- **项目博客主页： https://www.jianshu.com/nb/29439731** ， 这里每一份代码在里面对应有一篇博客。
+- **项目博客主页： https://www.jianshu.com/nb/29439731** ， 这里每一份代码在里面对应有一篇博客，文件说明下附有对应的博客，点击即可阅读。
 - 这是一个学习和研究机器学习和神经网络算法的项目，基于mnist手写数字数据集。作者计划在这个项目中由浅入深逐步实现一些比较先进的机器学习和神经网络算法；
 - 因为主要是学习之用，所以在实现核心功能的前提下，重点是代码简单易读；
 - 作者将主要参考一些经典的以及近些年的论文，这里有关于mnist识别项目研究论文的一个汇总：[rodrigob.github.io : Classifiction datasets results](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354) 
