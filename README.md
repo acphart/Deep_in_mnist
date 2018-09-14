@@ -18,4 +18,4 @@
 - 使用TensorFlow搭建ANN（一层隐藏层）识别mnist手写数字（正确率97.49%）
 ### 5. CNN_by_TensorFlow_with_LeNet-5_Architecture.ipynb
 - 使用TensorFlow搭建CNN识别mnist手写数字（正确率99.29%）
--参考LeNet-5架构，论文阅读及下载地址：http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
+- 参考LeNet-5架构，论文阅读及下载地址：http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
